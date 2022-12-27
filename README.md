@@ -13,7 +13,7 @@
 
 
 <p align="center">
- <img width="677" height="400" src="./updatekit-studio.png">
+ <img width="544" height="400" src="./updatekit-studio.png">
 </p>
 
 <h2 align="center">Et le code source ?</h2>
