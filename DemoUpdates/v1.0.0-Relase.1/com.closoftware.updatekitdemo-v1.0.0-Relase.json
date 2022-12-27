@@ -13,5 +13,5 @@
   },
   "PublishDate": "2022-12-27T14:41:25.3247468+01:00",
   "ApplicationIdentifier": "com.closoftware.updatekitdemo",
-  "UpdatePackage": "https://github.com/ArtOS-Developper/UpdateKit/DemoUpdates/v1.0.0-Relase.1/com.closoftware.updatekitdemo-v1.0.0-Relase.1.update"
+  "UpdatePackage": "https://raw.githubusercontent.com/ArtOS-Developper/UpdateKit/main/DemoUpdates/v1.0.0-Relase.1/com.closoftware.updatekitdemo-v1.0.0-Relase.1.update"
 }
